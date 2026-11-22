@@ -21,6 +21,34 @@
 <hr>
 
 
+<h3>Download Binaries</h3>
+
+<p>
+    Precompiled binaries are available on the 
+    <a href="https://github.com/[USER]/[REPO]/releases/latest"><strong>Releases</strong></a> page.
+    No build is required.
+</p>
+
+<ul>
+    <li><strong>Platform:</strong> Windows [10/11] x64.</li>
+    <li><strong>Requirements:</strong> [.NET X.0 Runtime / none (self-contained build)].</li>
+</ul>
+
+<p><strong>Installation:</strong></p>
+<ol>
+    <li>Download the latest <code>[FILE_NAME].zip</code> from the Releases page.</li>
+    <li>Extract it to any folder.</li>
+    <li>Run <code>[APP_NAME].exe</code>.</li>
+</ol>
+
+<p>
+    To build from source instead, clone the repository and open the solution in 
+    Visual Studio [2022] or later.
+</p>
+
+<hr>
+
+
 <h3>Video Channel</h3>
 
 <p>
