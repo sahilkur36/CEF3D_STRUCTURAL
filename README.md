@@ -25,7 +25,7 @@
 
 <p>
     Precompiled binaries are available on the 
-    <a href="https://github.com/[USER]/[REPO]/releases/latest"><strong>Releases</strong></a> page.
+    <a href="https://github.com/e45m/CEF3D_STRUCTURAL/releases/tag/CEF3DStructural11-2026"><strong>Releases</strong></a> page.
     No build is required.
 </p>
 
